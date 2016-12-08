@@ -116,7 +116,7 @@ public class Main
                       "\t-d         --debug      Runs the application in debug mode\n" +
                       "\t-h         --help       Prints this help\n" +
                       "\t-f [file] --file [file] Deletes also the duplicates of [file], if is a directory,\n" +
-                      "                          all duplicated files of the directory will be deleted\n" +
+                      "\t                        all duplicated files of the directory will be deleted\n" +
                       "\t-r         --recursive  Runs recursively between sub directories\n" +
                       "\n" +
                       "Examples:" +
